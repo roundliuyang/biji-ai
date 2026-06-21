@@ -1,0 +1,856 @@
+  <svg xmlns="http://www.w3.org/2000/svg" style="background: #F6FFF8; background-color: light-dark(#F6FFF8, #0e1610); color-scheme: light dark;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1637px" height="992px" viewBox="0 0 1637 992">
+   <defs>
+   </defs>
+   <rect fill="#F6FFF8" width="100%" height="100%" x="0" y="0" style="fill: light-dark(rgb(246, 255, 248), rgb(14, 22, 16));">
+   </rect>
+   <g>
+    <g data-cell-id="0">
+     <g data-cell-id="1">
+      <g data-cell-id="f_container">
+       <g transform="translate(0.5,0.5)">
+        <path d="M 1125 45 L 1125 20.25 Q 1125 0 1104.75 0 L 35.25 0 Q 15 0 15 20.25 L 15 45" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="fill: rgb(218, 232, 252); stroke: rgb(108, 142, 191);">
+        </path>
+        <path d="M 15 45 L 15 159.75 Q 15 180 35.25 180 L 1104.75 180 Q 1125 180 1125 159.75 L 1125 45" fill="none" stroke="#6c8ebf" stroke-width="1.5" stroke-miterlimit="10" pointer-events="none" style="stroke: rgb(108, 142, 191);">
+        </path>
+        <path d="M 15 45 L 1125 45" fill="none" stroke="#6c8ebf" stroke-width="1.5" stroke-miterlimit="10" pointer-events="none" style="stroke: rgb(108, 142, 191);">
+        </path>
+       </g>
+       <g>
+        <g transform="scale(1.5)">
+         <switch>
+          <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+           <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 738px; height: 1px; padding-top: 15px; margin-left: 11px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+             <div style="display: inline-block; font-size: 14px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+              
+              
+              
+              Frontend (React)
+             </div>
+            </div>
+           </div>
+          </foreignObject>
+          <image x="11" y="7" width="738" height="20.5"/>
+         </switch>
+        </g>
+       </g>
+       <g data-cell-id="f_group1_label">
+        <g transform="translate(0.5,0.5)">
+         <rect x="96" y="48" width="465" height="30" fill="none" stroke="none" pointer-events="all">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 308px; height: 1px; padding-top: 42px; margin-left: 65px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #666666; ">
+              <div style="display: inline-block; font-size: 11px; font-family: 'JetBrains Mono'; color: #666666; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               简历与面试
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="65" y="36" width="308" height="15.75"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="f_group2_label">
+        <g transform="translate(0.5,0.5)">
+         <rect x="756" y="48" width="300" height="30" fill="none" stroke="none" pointer-events="all">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 42px; margin-left: 505px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #666666; ">
+              <div style="display: inline-block; font-size: 11px; font-family: 'JetBrains Mono'; color: #666666; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               知识库
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="505" y="36" width="198" height="15.75"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="z6WhAG4M-UzT0GxZ5ffI-3">
+        <g transform="translate(0.5,0.5)">
+         <rect x="96" y="82.5" width="135" height="60" rx="9" ry="9" fill="#ffe6cc" stroke="#d79b00" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 230, 204); stroke: rgb(215, 155, 0);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 75px; margin-left: 65px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               简历分析
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="65" y="67.5" width="88" height="19.25"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="z6WhAG4M-UzT0GxZ5ffI-14">
+        <g transform="translate(0.5,0.5)">
+         <rect x="246" y="82.5" width="135" height="60" rx="9" ry="9" fill="#ffe6cc" stroke="#d79b00" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 230, 204); stroke: rgb(215, 155, 0);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 75px; margin-left: 165px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               简历库
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="165" y="67.5" width="88" height="19.25"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="z6WhAG4M-UzT0GxZ5ffI-4">
+        <g transform="translate(0.5,0.5)">
+         <rect x="396" y="82.5" width="135" height="60" rx="9" ry="9" fill="#ffe6cc" stroke="#d79b00" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 230, 204); stroke: rgb(215, 155, 0);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 75px; margin-left: 265px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               模拟面试
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="265" y="67.5" width="88" height="19.25"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="z6WhAG4M-UzT0GxZ5ffI-5">
+        <g transform="translate(0.5,0.5)">
+         <rect x="546" y="82.5" width="135" height="60" rx="9" ry="9" fill="#ffe6cc" stroke="#d79b00" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 230, 204); stroke: rgb(215, 155, 0);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 75px; margin-left: 365px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               面试记录
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="365" y="67.5" width="88" height="19.25"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="f_divider">
+        <g transform="translate(0.5,0.5)">
+         <path d="M 711 105 L 712.5 105" fill="none" stroke="#999999" stroke-width="1.5" stroke-miterlimit="10" stroke-dasharray="4.5 4.5" pointer-events="all" style="stroke: rgb(153, 153, 153);">
+         </path>
+        </g>
+       </g>
+       <g data-cell-id="z6WhAG4M-UzT0GxZ5ffI-15">
+        <g transform="translate(0.5,0.5)">
+         <rect x="756" y="82.5" width="135" height="60" rx="9" ry="9" fill="#e1d5e7" stroke="#9673a6" stroke-width="1.5" pointer-events="all" style="fill: rgb(225, 213, 231); stroke: rgb(150, 115, 166);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 75px; margin-left: 505px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               知识库管理
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="505" y="67.5" width="88" height="19.25"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="z6WhAG4M-UzT0GxZ5ffI-17">
+        <g transform="translate(0.5,0.5)">
+         <rect x="921" y="82.5" width="135" height="60" rx="9" ry="9" fill="#e1d5e7" stroke="#9673a6" stroke-width="1.5" pointer-events="all" style="fill: rgb(225, 213, 231); stroke: rgb(150, 115, 166);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 75px; margin-left: 615px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               问答助手
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="615" y="67.5" width="88" height="19.25"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="conn1">
+       <g>
+        <path d="M 570 192.35 L 570 287.65" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+        </path>
+        <path d="M 570 183.35 L 576 195.35 L 570 192.35 L 564 195.35 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+        </path>
+        <path d="M 570 296.65 L 564 284.65 L 570 287.65 L 576 284.65 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+        </path>
+       </g>
+      </g>
+      <g data-cell-id="conn1_label">
+       <g>
+        <g transform="scale(1.5)">
+         <switch>
+          <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+           <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 156px; margin-left: 381px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #333333; background-color: #ffffff; ">
+             <div style="display: inline-block; font-size: 12px; font-family: 'JetBrains Mono'; color: #333333; line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: nowrap; ">
+              
+              
+              
+              HTTP / SSE
+             </div>
+            </div>
+           </div>
+          </foreignObject>
+          <image x="347" y="149.5" width="68" height="17"/>
+         </switch>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="b_container">
+       <g transform="translate(0.5,0.5)">
+        <path d="M 1140 345 L 1140 320.25 Q 1140 300 1119.75 300 L 20.25 300 Q 0 300 0 320.25 L 0 345" fill="#d5e8d4" stroke="#82b366" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="fill: rgb(213, 232, 212); stroke: rgb(130, 179, 102);">
+        </path>
+        <path d="M 0 345 L 0 729.75 Q 0 750 20.25 750 L 1119.75 750 Q 1140 750 1140 729.75 L 1140 345" fill="none" stroke="#82b366" stroke-width="1.5" stroke-miterlimit="10" pointer-events="none" style="stroke: rgb(130, 179, 102);">
+        </path>
+        <path d="M 0 345 L 1140 345" fill="none" stroke="#82b366" stroke-width="1.5" stroke-miterlimit="10" pointer-events="none" style="stroke: rgb(130, 179, 102);">
+        </path>
+       </g>
+       <g>
+        <g transform="scale(1.5)">
+         <switch>
+          <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+           <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 758px; height: 1px; padding-top: 215px; margin-left: 1px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+             <div style="display: inline-block; font-size: 14px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+              
+              
+              
+              Backend (Spring Boot)
+             </div>
+            </div>
+           </div>
+          </foreignObject>
+          <image x="1" y="207" width="758" height="20.5"/>
+         </switch>
+        </g>
+       </g>
+       <g data-cell-id="b_controllers">
+        <g transform="translate(0.5,0.5)">
+         <rect x="30" y="367.5" width="1050" height="60" fill="#ffffff" stroke="#82b366" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(130, 179, 102);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 698px; height: 1px; padding-top: 265px; margin-left: 21px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               REST Controllers
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="21" y="257.5" width="698" height="19.25"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="s1">
+        <g transform="translate(0.5,0.5)">
+         <rect x="30" y="450" width="240" height="75" fill="#ffffff" stroke="#82b366" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(130, 179, 102);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 325px; margin-left: 21px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               Resume Service
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="21" y="317.5" width="158" height="19.25"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="s2">
+        <g transform="translate(0.5,0.5)">
+         <rect x="300" y="450" width="240" height="75" fill="#ffffff" stroke="#82b366" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(130, 179, 102);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 325px; margin-left: 201px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               Interview Service
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="201" y="317.5" width="158" height="19.25"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="s3">
+        <g transform="translate(0.5,0.5)">
+         <rect x="570" y="450" width="240" height="75" fill="#ffffff" stroke="#82b366" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(130, 179, 102);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 325px; margin-left: 381px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               Knowledge Service
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="381" y="317.5" width="158" height="19.25"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="s4">
+        <g transform="translate(0.5,0.5)">
+         <rect x="840" y="450" width="240" height="75" fill="#ffffff" stroke="#82b366" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(130, 179, 102);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 325px; margin-left: 561px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               RAG Chat Service
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="561" y="317.5" width="158" height="19.25"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="b_ai">
+        <g transform="translate(0.5,0.5)">
+         <rect x="30" y="675" width="1050" height="60" fill="#fff2cc" stroke="#d6b656" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 242, 204); stroke: rgb(214, 182, 86);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 698px; height: 1px; padding-top: 470px; margin-left: 21px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               Spring AI + DashScope (通义千问)
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="21" y="462.5" width="698" height="19.25"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="4kNGonoJ66r3B-5dvkYZ-1">
+        <g transform="translate(0.5,0.5)">
+         <path d="M 1080 577.5 L 1080 556.88 Q 1080 540 1063.13 540 L 46.88 540 Q 30 540 30 556.88 L 30 577.5" fill="#f9f7ed" stroke="#36393d" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="fill: rgb(249, 247, 237); stroke: rgb(54, 57, 61);">
+         </path>
+         <path d="M 30 577.5 L 30 643.13 Q 30 660 46.88 660 L 1063.13 660 Q 1080 660 1080 643.13 L 1080 577.5" fill="none" stroke="#36393d" stroke-width="1.5" stroke-miterlimit="10" pointer-events="none" style="stroke: rgb(54, 57, 61);">
+         </path>
+         <path d="M 30 577.5 L 1080 577.5" fill="none" stroke="#36393d" stroke-width="1.5" stroke-miterlimit="10" pointer-events="none" style="stroke: rgb(54, 57, 61);">
+         </path>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 698px; height: 1px; padding-top: 373px; margin-left: 21px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               Async Task Workers (Redis Stream)
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="21" y="366.5" width="698" height="17"/>
+          </switch>
+         </g>
+        </g>
+        <g data-cell-id="4kNGonoJ66r3B-5dvkYZ-2">
+         <g transform="translate(0.5,0.5)">
+          <rect x="45" y="592.5" width="330" height="52.5" rx="7.88" ry="7.88" fill="#ffffff" stroke="#666666" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(102, 102, 102);">
+          </rect>
+         </g>
+         <g>
+          <g transform="scale(1.5)">
+           <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+             <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 413px; margin-left: 31px;">
+              <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+               <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                
+                
+                
+                简历深度分析任务
+               </div>
+              </div>
+             </div>
+            </foreignObject>
+            <image x="31" y="407" width="218" height="15.75"/>
+           </switch>
+          </g>
+         </g>
+        </g>
+        <g data-cell-id="4kNGonoJ66r3B-5dvkYZ-3">
+         <g transform="translate(0.5,0.5)">
+          <rect x="405" y="592.5" width="330" height="52.5" rx="7.88" ry="7.88" fill="#ffffff" stroke="#666666" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(102, 102, 102);">
+          </rect>
+         </g>
+         <g>
+          <g transform="scale(1.5)">
+           <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+             <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 218px; height: 1px; padding-top: 413px; margin-left: 271px;">
+              <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+               <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                
+                
+                
+                文档向量化任务 (Embedding)
+               </div>
+              </div>
+             </div>
+            </foreignObject>
+            <image x="271" y="407" width="218" height="15.75"/>
+           </switch>
+          </g>
+         </g>
+        </g>
+        <g data-cell-id="4kNGonoJ66r3B-5dvkYZ-4">
+         <g transform="translate(0.5,0.5)">
+          <rect x="765" y="592.5" width="300" height="52.5" rx="7.88" ry="7.88" fill="#ffffff" stroke="#666666" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(102, 102, 102);">
+          </rect>
+         </g>
+         <g>
+          <g transform="scale(1.5)">
+           <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+             <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 413px; margin-left: 511px;">
+              <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+               <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                
+                
+                
+                报告 PDF 异步导出
+               </div>
+              </div>
+             </div>
+            </foreignObject>
+            <image x="511" y="407" width="198" height="15.75"/>
+           </switch>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="db1">
+       <g transform="translate(0.5,0.5)">
+        <path d="M 63 892.5 C 63 880.07 110.01 870 168 870 C 195.85 870 222.55 872.37 242.25 876.59 C 261.94 880.81 273 886.53 273 892.5 L 273 967.5 C 273 979.93 225.99 990 168 990 C 110.01 990 63 979.93 63 967.5 Z" fill="#f8cecc" stroke="#b85450" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="fill: rgb(248, 206, 204); stroke: rgb(184, 84, 80);">
+        </path>
+        <path d="M 273 892.5 C 273 904.93 225.99 915 168 915 C 110.01 915 63 904.93 63 892.5" fill="none" stroke="#b85450" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="stroke: rgb(184, 84, 80);">
+        </path>
+       </g>
+       <g>
+        <g transform="scale(1.5)">
+         <switch>
+          <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+           <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 633px; margin-left: 43px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+             <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+              
+              
+              
+              PostgreSQL              <br/>
+
+
+
++ pgvector
+             </div>
+            </div>
+           </div>
+          </foreignObject>
+          <image x="43" y="618" width="138" height="34.25"/>
+         </switch>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="db2">
+       <g transform="translate(0.5,0.5)">
+        <path d="M 465 892.5 C 465 880.07 512.01 870 570 870 C 597.85 870 624.55 872.37 644.25 876.59 C 663.94 880.81 675 886.53 675 892.5 L 675 967.5 C 675 979.93 627.99 990 570 990 C 512.01 990 465 979.93 465 967.5 Z" fill="#d5e8d4" stroke="#82b366" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="fill: rgb(213, 232, 212); stroke: rgb(130, 179, 102);">
+        </path>
+        <path d="M 675 892.5 C 675 904.93 627.99 915 570 915 C 512.01 915 465 904.93 465 892.5" fill="none" stroke="#82b366" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="stroke: rgb(130, 179, 102);">
+        </path>
+       </g>
+       <g>
+        <g transform="scale(1.5)">
+         <switch>
+          <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+           <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 633px; margin-left: 311px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+             <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+              
+              
+              
+              Redis              <br/>
+<font style="font-size: 11px; color: rgb(102, 102, 102);" color="#666666">(缓存 + Stream)</font>
+             </div>
+            </div>
+           </div>
+          </foreignObject>
+          <image x="311" y="618" width="138" height="34.25"/>
+         </switch>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="db3">
+       <g transform="translate(0.5,0.5)">
+        <path d="M 855 892.5 C 855 880.07 902.01 870 960 870 C 987.85 870 1014.55 872.37 1034.25 876.59 C 1053.94 880.81 1065 886.53 1065 892.5 L 1065 967.5 C 1065 979.93 1017.99 990 960 990 C 902.01 990 855 979.93 855 967.5 Z" fill="#dae8fc" stroke="#6c8ebf" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="fill: rgb(218, 232, 252); stroke: rgb(108, 142, 191);">
+        </path>
+        <path d="M 1065 892.5 C 1065 904.93 1017.99 915 960 915 C 902.01 915 855 904.93 855 892.5" fill="none" stroke="#6c8ebf" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="stroke: rgb(108, 142, 191);">
+        </path>
+       </g>
+       <g>
+        <g transform="scale(1.5)">
+         <switch>
+          <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+           <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 633px; margin-left: 571px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+             <div style="display: inline-block; font-size: 13px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+              
+              
+              
+              RustFS (S3)              <br/>
+
+
+
+对象存储
+             </div>
+            </div>
+           </div>
+          </foreignObject>
+          <image x="571" y="618" width="138" height="34.25"/>
+         </switch>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="c1">
+       <g transform="translate(0.5,0.5)">
+        <path d="M 171 750 L 168.24 860.45" fill="none" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+        </path>
+        <path d="M 168.04 868.32 L 163.06 857.7 L 168.24 860.45 L 173.55 857.96 Z" fill="#000000" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+        </path>
+       </g>
+      </g>
+      <g data-cell-id="c1_label">
+       <g>
+        <g transform="scale(1.5)">
+         <switch>
+          <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+           <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 521px; margin-left: 113px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #666666; background-color: #ffffff; ">
+             <div style="display: inline-block; font-size: 11px; font-family: 'JetBrains Mono'; color: #666666; line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: nowrap; ">
+              
+              
+              
+              数据持久化              <br/>
+
+
+
+向量检索
+             </div>
+            </div>
+           </div>
+          </foreignObject>
+          <image x="85.5" y="508.5" width="55" height="28.75"/>
+         </switch>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="c2">
+       <g transform="translate(0.5,0.5)">
+        <path d="M 570 750 L 570 860.45" fill="none" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+        </path>
+        <path d="M 570 868.32 L 564.75 857.82 L 570 860.45 L 575.25 857.82 Z" fill="#000000" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+        </path>
+       </g>
+      </g>
+      <g data-cell-id="c2_label">
+       <g>
+        <g transform="scale(1.5)">
+         <switch>
+          <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+           <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 531px; margin-left: 381px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #666666; background-color: #ffffff; ">
+             <div style="display: inline-block; font-size: 11px; font-family: 'JetBrains Mono'; color: #666666; line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: nowrap; ">
+              
+              
+              
+              异步任务              <br/>
+
+
+
+会话缓存              <div>
+               
+               
+               
+               分布式限流
+              </div>
+             </div>
+            </div>
+           </div>
+          </foreignObject>
+          <image x="353.5" y="511.5" width="55" height="42.75"/>
+         </switch>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="3GxOh-hhS_od4OZn1H2H-1">
+       <g transform="translate(0.5,0.5)">
+        <path d="M 1635 645 L 1635 620.25 Q 1635 600 1614.75 600 L 1295.25 600 Q 1275 600 1275 620.25 L 1275 645" fill="#e1d5e7" stroke="#9673a6" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="fill: rgb(225, 213, 231); stroke: rgb(150, 115, 166);">
+        </path>
+        <path d="M 1275 645 L 1275 789.75 Q 1275 810 1295.25 810 L 1614.75 810 Q 1635 810 1635 789.75 L 1635 645" fill="none" stroke="#9673a6" stroke-width="1.5" stroke-miterlimit="10" pointer-events="none" style="stroke: rgb(150, 115, 166);">
+        </path>
+        <path d="M 1275 645 L 1635 645" fill="none" stroke="#9673a6" stroke-width="1.5" stroke-miterlimit="10" pointer-events="none" style="stroke: rgb(150, 115, 166);">
+        </path>
+       </g>
+       <g>
+        <g transform="scale(1.5)">
+         <switch>
+          <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+           <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 415px; margin-left: 851px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+             <div style="display: inline-block; font-size: 14px; font-family: 'JetBrains Mono'; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
+              
+              
+              
+              AI 服务
+             </div>
+            </div>
+           </div>
+          </foreignObject>
+          <image x="851" y="407" width="238" height="20.5"/>
+         </switch>
+        </g>
+       </g>
+       <g data-cell-id="3GxOh-hhS_od4OZn1H2H-2">
+        <g transform="translate(0.5,0.5)">
+         <rect x="1305" y="667.5" width="300" height="52.5" rx="7.88" ry="7.88" fill="#ffffff" stroke="#9673a6" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(150, 115, 166);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 463px; margin-left: 871px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               Qwen-Plus / Max (LLM)
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="871" y="456.5" width="198" height="17"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+       <g data-cell-id="3GxOh-hhS_od4OZn1H2H-3">
+        <g transform="translate(0.5,0.5)">
+         <rect x="1305" y="735" width="300" height="52.5" rx="7.88" ry="7.88" fill="#ffffff" stroke="#9673a6" stroke-width="1.5" pointer-events="all" style="fill: rgb(255, 255, 255); stroke: rgb(150, 115, 166);">
+         </rect>
+        </g>
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 508px; margin-left: 871px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; ">
+              <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+               
+               
+               
+               Text-Embedding-v3
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="871" y="501.5" width="198" height="17"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="3GxOh-hhS_od4OZn1H2H-4">
+       <g>
+        <path d="M 1080 705 L 1262.65 705" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="9 9" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+        </path>
+        <path d="M 1271.65 705 L 1259.65 711 L 1262.65 705 L 1259.65 699 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+        </path>
+       </g>
+      </g>
+      <g data-cell-id="3GxOh-hhS_od4OZn1H2H-5">
+       <g>
+        <g transform="scale(1.5)">
+         <switch>
+          <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+           <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 471px; margin-left: 791px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #ffffff; ">
+             <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: nowrap; ">
+              
+              
+              
+              HTTP API
+             </div>
+            </div>
+           </div>
+          </foreignObject>
+          <image x="766.5" y="465" width="49" height="15.75"/>
+         </switch>
+        </g>
+       </g>
+      </g>
+      <g data-cell-id="low_OBUFJs4OQT1r0JiF-2">
+       <g transform="translate(0.5,0.5)">
+        <path d="M 960 750 L 960 860.45" fill="none" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" pointer-events="stroke" style="stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+        </path>
+        <path d="M 960 868.32 L 954.75 857.82 L 960 860.45 L 965.25 857.82 Z" fill="#000000" stroke="#000000" stroke-width="1.5" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));">
+        </path>
+       </g>
+       <g data-cell-id="low_OBUFJs4OQT1r0JiF-3">
+        <g>
+         <g transform="scale(1.5)">
+          <switch>
+           <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 530px; margin-left: 640px;">
+             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #000000; background-color: #ffffff; ">
+              <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: light-dark(#000000, #ffffff); line-height: 1.2; pointer-events: all; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); white-space: nowrap; ">
+<span style="color: rgb(102, 102, 102); font-family: &quot;JetBrains Mono&quot;;">文件存储</span>
+              </div>
+             </div>
+            </div>
+           </foreignObject>
+           <image x="618" y="523.5" width="44" height="16.75"/>
+          </switch>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </svg>
