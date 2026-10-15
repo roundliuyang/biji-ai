@@ -137,19 +137,13 @@ Q₁ 到 Q₉ 分别只属于 attention 矩阵的第 1～9 行。
 
 为什么？
 
-因为在 causal masking 下，一个 token 的 K 和 V 只依赖：
-
-> 当前 token 以及它前面的 token
-
-而**不会依赖后面的 token**。
+每一层的 K、V 只由当前 token 在该层的输入向量计算。第一层的输入不包含前文信息；后续层的输入通过之前的 attention 融入了前文信息。由于 causal masking，它们始终不依赖后面的 token。
 
 所以，当我们在后面追加 token 11 时：
 
 > token 3 的 K₃ 和 V₃ 不会发生任何变化。
 
 因此，之前计算好的 K 和 V 可以直接保存下来，下一次继续使用。
-
-
 
 ## 6.KV Cache 到底缓存了什么？
 
